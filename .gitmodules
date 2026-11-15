@@ -1,0 +1,6 @@
+[submodule "conectaSaude-frontend"]
+	path = conectaSaude-frontend
+	url = https://github.com/nataliafirmino/conectaSaude-frontend.git
+[submodule "conectaSaude-backend"]
+	path = conectaSaude-backend
+	url = https://github.com/nataliafirmino/conectaSaude-backend.git
